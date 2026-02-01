@@ -1,0 +1,3 @@
+Day 12: File handling in Python
+Learning step by step
+Appending new line
