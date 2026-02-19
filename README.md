@@ -13,7 +13,7 @@ The goal is to develop a solid foundation in Python fundamentals, data structure
 - … and so on for 30 days
 
 Each folder contains:
-- `.py` files for each program
+- `.ipynb` files for each program
 - Programs include proper docstrings explaining **problem** and **logic**
 - Programs are designed to be **clean, readable, and beginner-friendly**
 
